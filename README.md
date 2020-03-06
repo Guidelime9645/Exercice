@@ -1,2 +1,2 @@
-# Exercice
+# README
 j'adore le pain 
